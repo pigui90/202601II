@@ -1,0 +1,3 @@
+Nombre: Pedro Edad: 22 Direccion: Alajuela Activo: false
+Nombre: Sergio Edad: 25 Direccion: Grecia Activo: true
+Nombre: Judas Edad: 99 Direccion: San jose Activo: false
